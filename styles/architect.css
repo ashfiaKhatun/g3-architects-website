@@ -127,7 +127,10 @@ main {
     border-left: 5px solid #FF900E;
     padding-left: 20px;
 }
-
+.feature-img{
+    position: relative;
+    top: 70px;
+}
 .feature-img img {
     height: 80%;
     margin-left: 90px;
